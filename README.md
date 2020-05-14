@@ -22,8 +22,3 @@ For Execution :
 	Again go to Client folder , run "npm start"
 
 4) You have a browser instance is launched and code is running on Localhost:3000
-
-
-
-
-
